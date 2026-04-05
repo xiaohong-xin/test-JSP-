@@ -1,0 +1,59 @@
+body{
+    width: 1100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div_01{
+    background-color: #cccccc;
+    border: 2px solid #aaaaaa;
+    width: 1100px;
+    height: 100px;
+    font-size: 20pt;
+    line-height: 100%;
+}
+
+.div_02{
+    text-align: left;
+    line-height: 20pt;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border-bottom: solid #777777 2px;
+}
+
+.div_03{
+    padding-top: 10px;
+}
+
+#th_01 {
+    background-color: #22ccff;
+    width: 140px;
+    height: 60px;
+}
+
+a {
+    font-family: 宋体;
+    text-align: left;
+    text-decoration: underline;
+    TEXT-DECORATION: none;
+}
+
+.td_01{
+    text-align: center;
+}
+
+.span_01{
+    color: red;
+}
+
+.td_02{
+    text-align: center;
+}
+
+#span_02{
+    width: 200px;
+    height: 20px;
+    background-color: red;
+}
